@@ -1,0 +1,6 @@
+1. First start ngrok using this command: 
+   npx ngrok http 5000
+
+2. Then go to the sendGrid mail settings and in event notifications add the url you got from ngrok. 
+
+3. After that run the app . 
